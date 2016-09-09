@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Battleship Mobile Game</string>
+    <string name="game_Title">Battleship</string>
+    <string name="play_battle">Play a battle</string>
+    <string name="ranked_battle">Ranked Battle</string>
+    <string name="stats">Stats</string>
+    <string name="credits">Credits</string>
+    <string name="login">Login</string>
+    <string name="play_ai">Player Vs AI</string>
+    <string name="play_local">2 Players - Local</string>
+    <string name="online_battle">Online Battle</string>
+    <string name="back">Back</string>
+    <string name="game_type">Game Type</string>
+    <string name="statistics">Statistics</string>
+    <string name="fight">Fight!</string>
+    <string name="next">Next</string>
+    <string name="rotate">Rotate</string>
+    <string name="dialog_ending_title">BITWA ZAKONCZONA!</string>
+    <string name="dialog_ending_message_player_win">Gratulacje admirale! O tym zwycięstwie będzie jeszcze nie raz glośno!</string>
+    <string name="dialog_ending_message_player_lose">Totalna porażka! Zostałeś pokonany przez Androida!</string>
+    <string name="dialog_ending_message_back_to_menu">Powrót do menu</string>
+    <string name="dialog_ending_message_new_game">Rozegraj ponownie Bitwę!</string>
+    <string name="history">Historia Gier:</string>
+    <string name="id">ID: </string>
+    <string name="winner">WINNER: </string>
+    <string name="rounds">ROUNDS: </string>
+
+</resources>
